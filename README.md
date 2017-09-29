@@ -1,2 +1,4 @@
 # kaggle_day_xomnia
-notebooks 
+We need a preprocessing notebook
+
+and seperate exploration 
